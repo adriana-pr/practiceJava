@@ -1,0 +1,10 @@
+{
+  "name": "My Second Bot",
+  "version": "1.0",
+  "authors": [ "Adriana" ],
+  "description": "My second bot",
+  "homepage": "",
+  "countryCodes": [ "us" ],
+  "platform": "JVM",
+  "programmingLang": "Java 11"
+}
